@@ -15,7 +15,7 @@ Specific online attacks do not need to be complicated; even novice attackers suc
 
 Exploit kits exploit security flaws in software programmes such as Adobe Reader and Adobe Flash Player by spreading malware such as spyware, viruses, trojans, worms, bots, and backdoors to the target system through buffer overflow scripts or other payloads. Exploit kits spread malware through buffer overflow scripts or other payloads to the target system. Exploit kits provide pre-written exploit code that has already been tested. Web attack tools - Attackers use several standard tools throughout the hacking process, including Metasploit, immunity CANVAS, Hydra, HULK DoS, MPack, and w3af.
 
-This forensic software has been created to to scan .txt weblogs for any vulnerabilities listed above in the OWASP top ten list. This offers a clear indication to the end-user of where security will be lacking in an organisation's infrastructure. The application will not alleviate these worries; instead, it will exhibit suspicious behaviour and the exploit used to infect the system.
+This forensic software has been created to scan .txt weblogs for any vulnerabilities listed above in the OWASP top ten list. This offers a clear indication to the end-user of where security will be lacking in an organisation's infrastructure. The application will not alleviate these worries; instead, it will exhibit suspicious behaviour and the exploit used to infect the system.
 
 ![GUI](https://user-images.githubusercontent.com/44169316/165754258-24178f4d-81f0-42fc-8a61-52381f6fa1e4.PNG)
 
